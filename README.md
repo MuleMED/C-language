@@ -1,4 +1,4 @@
-# C-language-
+# C-language
 This repository is basically for C language from beginning to Expert
 
 I have tried to catergozied it into chapters 
